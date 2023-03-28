@@ -1,28 +1,30 @@
-## GPT-4 Chatbot UI
+## DesignGPT
+DesignGPT is an advanced AI-powered website designer built on the GPT-4 architecture. It aims to revolutionize the web design process by collaborating with human designers to create visually stunning, highly functional, and user-friendly websites.
 
-Build your own GPT-4 chatbot frontend with this open source Next.js template! Simply add your OpenAI API key as `OPENAI_API_KEY` and you're good to go!
+# Features
+Collaborative design process with human designers
+Intuitive understanding of web design principles and best practices
+Ability to create responsive and accessible websites
+Optimization for search engines and performance
+Incorporation of cutting-edge technologies such as AI and Web3
+# Getting Started
+To start collaborating with DesignGPT, simply initiate a conversation with the AI, providing a detailed description of your web design project requirements, design philosophy, and any specific elements you'd like to include in your website.
 
-Don't have early access to GPT-4? Replace `gpt-4` with `gpt-3.5-turbo` in `pages/api/chat.js`.
+DesignGPT will then guide you through the design process, providing code snippets, design suggestions, and answering any questions you may have along the way.
 
-## Getting Started
+# Example Projects
+DesignGPT has successfully collaborated with human designers on various web design projects, including:
 
-Hit the run button to start the development server.
+Modern Portfolio Websites
+E-commerce Websites
+Landing Pages
+Blog Templates
+Web Applications
+Contributing
+As DesignGPT continues to evolve and improve, we welcome contributions from the community to enhance its capabilities and performance. If you'd like to contribute, please submit a pull request or open an issue to discuss your ideas.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+# License
+DesignGPT is released under the MIT License.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on `/api/chat`. This endpoint can be edited in `pages/api/chat.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-## Productionizing your Next App
-
-To make your next App run smoothly in production make sure to [turn this Repl to an Always On Repl.](https://docs.replit.com/hosting/enabling-always-on)
-
-You can also produce a production build by running `npm run build` and [changing the run command](https://docs.replit.com/programming-ide/configuring-repl#run) to `npm run start`.
+# Acknowledgements
+DesignGPT is built on the GPT-4 architecture by OpenAI. We'd like to express our gratitude to the entire OpenAI team for their research, development, and ongoing support of the AI community.
