@@ -10,7 +10,7 @@ export default function Home() {
   const [userInput, setUserInput] = useState("");
   const [loading, setLoading] = useState(false);
   const [messages, setMessages] = useState([
-    { role: "assistant", content: "Hi there! What website are we developing?" }
+    { role: "assistant", content: "Hi, I'm DesignGPT, your AI web developer assistant. What are we building?" }
   ]);
 
   const messageListRef = useRef(null);
