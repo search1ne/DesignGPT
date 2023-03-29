@@ -149,7 +149,7 @@ export default function Home() {
             </form>
           </div>
           <div className={styles.footer}>
-            <p>Powered by <a href="https://openai.com/" target="_blank">OpenAI</a>. Built on <a href="https://replit.com/@zahid/GPT-4-UI" target="_blank">Replit</a>.</p>
+            <p>Powered by <a href="https://openai.com/" target="_blank">OpenAI</a>. Built on <a href="https://designgpt-10.search1ne.repl.co/" target="_blank">Replit</a>.</p>
           </div>
         </div>
       </main>
